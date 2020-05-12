@@ -3,3 +3,7 @@ Primeiro modelo de estudo com JS para criação de contador de tempo para mediç
 
 ## Autoria
 Script (JS) baseado em versão de outro autor e aplicado de forma estudada com variações minhas, cabiveis ao meu projeto.
+
+
+## Versão
+1.0
